@@ -1,0 +1,51 @@
+html {
+    background-color:cornsilk;
+    font-family:Helvetica;
+    margin: auto;
+    width: 50%;
+}
+.content-container {
+    text-align:center;
+}
+
+h1 {
+    font-family: Helvetica;
+    color:darkgreen;
+    font-weight:bolder;
+    text-align:center;
+}
+
+h2 {
+    font-family: Helvetica;
+    color:darkgreen;
+    font-weight:lighter;
+}
+
+hr {
+    border-color:darkred;
+}
+
+h3 {
+    color:darkred;
+}
+
+p {
+    color:darkgreen;
+}
+
+ul {
+    display:inline-block;
+    text-align:left;
+}
+
+li {
+    color:darkgreen;
+}
+
+img {
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(7, 51, 7);
+    border-width:6px;ssssssss
+}
+
