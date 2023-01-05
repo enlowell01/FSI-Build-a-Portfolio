@@ -1,9 +1,12 @@
+/*The first rule applies styling to all content.*/
 html {
     background-color:cornsilk;
     font-family:Helvetica;
     margin: auto;
     width: 50%;
 }
+
+/*This rule applies a centered text rule to all content within the main div, with the class "content-container".*/
 .content-container {
     text-align:center;
 }
